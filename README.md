@@ -2,7 +2,7 @@
 - 👀 I’m interested in JAVA,C,C++
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on JAVA
-- 📫 How to reach me on hemapatidar29@gmail.com
+- 📫 Reach me on hemapatidar29@gmail.com
 
 <!---
 Hemapatidar/Hemapatidar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
